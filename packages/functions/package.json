@@ -7,9 +7,13 @@
     "typecheck": "tsc -noEmit"
   },
   "devDependencies": {
-    "@types/node": "^20.4.10",
     "@types/aws-lambda": "^8.10.119",
-    "vitest": "^0.34.1",
-    "sst": "^2.23.15"
+    "@types/node": "^20.4.10",
+    "sst": "^2.23.15",
+    "vitest": "^0.34.1"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1435.0",
+    "uuid": "^9.0.0"
   }
 }
