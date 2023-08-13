@@ -16,7 +16,7 @@
     "@types/uuid": "^9.0.2",
     "aws-cdk-lib": "2.84.0",
     "constructs": "10.1.156",
-    "sst": "^2.23.15",
+    "sst": "^2.24.1",
     "typescript": "^5.1.6"
   },
   "workspaces": [
